@@ -1,0 +1,1 @@
+ whatsapp siapkan fitur edit foto berbasis ai whatsapp sedang mengerjakan fitur ai terbaru yang difungsinkan untuk mengedit foto. fitur itu akan diimplementasikan pada update 2.24.7.13. 
