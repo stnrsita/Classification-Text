@@ -1,0 +1,47 @@
+Title: Rumus Impuls, Bedanya dengan Momentum, dan Contoh Soalnya
+
+<atas>
+Dikutip dari bahan pembelajaran Universitas Brawijaya, impuls adalah perubahan momentum yang dimiliki suatu benda. Konsep ini hanya berlaku pada tumbukan yang terjadi sangat singkat.
+Penjelasan senada juga terdapat dalam Modul Fisika Kelas X yang ditulis Herry Setyawan, SPd, MSi. Impuls dijelaskan sebagai gaya sebesar F yang bekerja pada benda dalam waktu singkat, yang dilambangkan dengan I.
+Besarnya impuls diperoleh dari hasil kali gaya dengan selang waktu ketia energi tersebut bekerja. Dengan penjelasan ini maka rumus impuls adalah
+I= F . Δt
+Keterangan:
+Jika gaya F yang diberikan pada benda dapat berubah terhadap waktu F(t), maka konsep impuls (I) dapat ditulis dalam bentuk pengintegralan, yaitu:
+1. Seorang pemain sepakbola melakukan tendangan terhadap bola dengan gaya F sebesar 25 Newton. Tentukan besar impuls yang terjadi jika waktu sentuh antara bola dan kaki adalah 0,01 sekon.
+Diketahui:
+F= 25 NewtonΔt= 0,01 sekon
+Ditanya: I?
+Jawaban:
+I= F . Δt
+</atas>
+
+<tengah>
+I= 25 x 0,01
+I= 0,25 N.s
+Jadi, besar impuls yang bekerja pada bola tersebut adalah 0,25 N.s yang searah dengan arah gaya rata-rata (F) yang diberikan.
+2. Perhatikan grafik F-t berikut!
+Grafik tersebut menyatakan bahwa gaya yang bekerja pada suatu benda bermassa 2 kg dalam selang waktu 4 sekon. Jika benda tersebut mula-mula diam, Tentukan besarnya impuls selama 4 sekon tersebut.
+Berdasarkan konsep impuls dalam grafik F-t diperoleh
+Impuls (I)= luas daerah di bagian bawah grafik F-t
+Jadi besar nilai impuls pada kasus ini adalah
+I= Luas segitiga
+I= 1/2 x a x t
+I= 1/2 x 4 x 10
+I= 20 N.s
+</tengah>
+
+<bawah>
+Jadi, impuls yang bekerja pada benda tersebut adalah sebesar 20 N.s.
+Impuls dan momentum adalah dua hal yang berbeda meski berkaitan. Momentum merujuk pada besanrya gaya yang diperlukan untuk menghentikan gerak beda. Sedangkan impuls adalah besar gaya pada selisih momentum.
+Momentum adalah besaran vektor yang arahnya sama dengan kecepatan benda. Besarnya momentum dapat diperoleh dengan rumus berikut:
+p= m . v
+Keterangan:
+Suatu benda memiliki massa 50 kg dan bergerak dengan kecepatan 6 m/s. Tentukan momentum yang dimiliki oleh benda tersebut!
+Pembahasan
+Benda yang bergerak pasti memiliki momentum. Berdasarkan konsep momentum, maka dapat ditentukan sebagai berikut
+p= m . v
+p= 50 x 6
+p= 300 kg.m/s
+Jadi besar momentum yang dimiliki oleh benda tersebut ketika bergerak adalah 300 kg.m/s searah dengan arah kecepatannya.
+Penerapan rumus impuls dan momentum sangat mudah ditemukan di kehidupan sehari-hari. Misal saat melihat bola ditendang dalam selisih waktu singkat, hingga akhirnya ditangkap kiper. Memperhatikan penerapan rumus dalam keseharian bisa membantu pemahaman detikers lho.
+</bawah>
