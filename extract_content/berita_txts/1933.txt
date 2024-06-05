@@ -1,0 +1,15 @@
+Title: Komputer di China Dilarang Pakai Chip Intel dan AMD
+
+Content:
+Chip Intel dan AMD jadi chip yang sangat populer di dunia. Mayoritas komputer pun menggunakan chip tersebut.
+Namun di China, komputer yang ada justru dilarang memakai chip Intel dan AMD. Kebijakan ini berlaku untuk komputer atau perangkat, termasuk server, milik pemerintah.
+Pedoman pengadaan pemerintah China juga berupaya menggantikan sistem operasi Microsoft Windows dan software database buatan asing dengan alternatif buatan dalam negeri.
+Dikutip dari detikInet, kebijakan ini berlaku untuk badan pemerintahan dan organisasi partai di atas tingkat kota yang diminta untuk mempertimbangkan prosesor dan sistem operasi yang aman dan andal saat melakukan pengadaan.
+Kebijakan ini diumumkan oleh Kementerian Keuangan China dan Kementerian Industri dan Teknologi Informasi China pada 26 Desember. Di hari yang sama, Pusat Evaluasi Keamanan Teknologi Informasi China merilis daftar prosesor dan sistem operasi buatan China yang aman dan andal.
+Ada 18 prosesor yang disetujui oleh pemerintah China, yang di antaranya merupakan chip buatan Huawei dan Phytium. Prosesor buatan China ini dibuat menggunakan arsitektur seperti x86 dan Arm, serta sistem operasinya berasal dari Linux, seperti dikutip dari Financial Times, Senin (25/3/2024).
+Kebijakan pengadaan baru ini merupakan strategi nasional untuk swasembada teknologi di sektor militer, pemerintah, dan negara. Dengan strategi yang dikenal dengan nama 'xinchuang' ini, China ingin melepaskan diri dari teknologi asing dan beralih ke teknologi lokal pada tahun 2027.
+Raksasa teknologi AS seperti Intel, AMD, dan Microsoft akan menjadi perusahaan yang terkena dampak paling besar. China merupakan pasar terbesar Intel tahun lalu yang menyumbangkan 27% dari total penjualan sebesar USD 54 miliar.
+Negeri Tirai Bambu juga berkontribusi memberikan 15% dari total penjualan AMD sebesar USD 23 miliar. Microsoft tidak mengungkap penjualan di China, tapi Presiden Microsoft Brad Smith tahun lalu mengatakan China menyumbangkan 1,5% dari total pendapatan.
+Intel dan AMD bisa saja mendaftar ke pemerintah China agar dimasukkan ke dalam daftar prosesor yang disetujui. Tapi prosesnya tidak akan cepat dan mudah.
+Chip buatan asing yang ingin dievaluasi harus memberikan dokumentasi riset dan pengembangan serta kode produk secara penuh. Pemerintah China juga menerapkan beberap kriteria seperti tingkat desain, serta produksi dan pengembangan yang dilakukan di China.
+Artikel ini telah tayang di detikInet dengan judul Pemerintah China Larang Komputer Pakai Chip Intel dan AMD

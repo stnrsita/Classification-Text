@@ -1,0 +1,18 @@
+Title: Google dan Liverpool Garap AI untuk Taktik Sepakbola
+
+Content:
+Google DeepMind menjajal penggunaan kecerdasan buatan (AI) untuk membuat taktik di sepakbola.
+Mereka memamerkan prototipe TacticAI pada Maret lalu, yang dikembangkan bersama Liverpool FC, sebagai bagian dari kerja sama mereka dengan tim yang berlaga di English Premier League (EPL) tersebut selama tiga tahun.
+Hasil penelitian tersebut baru-baru ini dipublikasikan peneliti DeepMind di jurnal Nature Communications, demikian dikutip detikINET dari Business Insider, Senin (15/4/2024).
+Menurut ahli sepakbola yang dilibatkan dalam proyek tersebut, sistem AI yang dipakai itu sudah lebih baik dibanding manusia dalam mendesain taktik menyerang dan bertahan saat tendangan sudut, setelah AI-nya dilatih menggunakan dataset berisi 7 ribu tendangan sudut dari pertandingan di EPL.
+"Hal yang paling menarik (dari sepakbola) untuk saya adalah ini adalah game yang berada di antara seni dan sains. Ada banyak ketidakpastian dalam pertandingan, namun kita masih bisa menggunakan data untuk mengambil keputusan yang lebih baik," kata Zhe Wang, salah satu peneliti DeepMind di proyek TacticAI.
+Sementara itu Petar Velickovic, salah satu peneliti di proyek DeepMind juga menyebut melatih TacticAI menggunakan data dari tendangan sudut adalah hal yang logis, karena biasanya hal ini biasanya mengarah pada bagian pemainan yang lebih terstruktur.
+"Anda tak pernah bisa benar-benar memprediksi apa yang bakal terjadi. Namun yang anda bisa lakukan adalah mengenali pola dalam taktik. Tendangan sudut adalah contoh yang bagus untuk itu karena kaku, sering terjadi, dan mengarahkan ke kesempatan mencetak gol," katanya.
+TacticAI bisa memberikan saran kepada pelatih soal posisi pemain yang optimal saat menyerang dan bertahan di tendangan sudut, dan berpotensi memberikan keuntungan bagi tim untuk menciptakan perbedaan di olahraga yang kompetitif ini.
+Pengembangan TacticAI oleh DeepMind dan Liverpool mendapat pujian dari eksekutif baseball "Moneyball" Billy Beane yang legendaris. Sejak diambil alih oleh Fenway Sports Group -- pemilik Boston Red Sox -- pada 2010, Liverpool sudah mempekerjakan sejumlah orang dengan latar belakang yang tak lazim di tim sepakbola EPL.
+Misalnya Ian Graham, doktor fisika dari Cambridge yang memimpin tim penelitian Liverpool sampai 2023 lalu.
+"Sejak 10 tahun lalu, Liverpool sudah punya orang-orang dengan latar belakang Ph.D dari Cambridge dan Harvard -- ini adalah orang-orang yang bergantung pada engineering, data, dan penelitian, dan mereka bekerja menggunakan analisis statistik dalam waktu lama. Jadi mereka sudah punya dasar yang bagus dan solid untuk dikembangkan dengan deep learning," kata Velickovic.
+Perilisan TacticAI ini menjadi akhir dari kolaborasi DeepMind dan Liverpool, namun para peneliti percaya bahwa para eksekutif teratas di tim sepakbola baru menyadari bahwa AI bisa punya peran besar dalam olahraga tersebut.
+Perannya ini tak terbatas di tendangan sudut, namun set piece lain seperti tendangan bebas, lemparan ke dalam, ataupun penalti. Semuanya punya struktur data yang bisa dimanfaatkan oleh AI untuk diteliti.
+"Kami bukan mencoba menggantikan peran manusia sebagai pelatih. Namun kami ingin membantu mereka untuk membuat keputusan yang lebih cepat dan baik untuk melihat pola dan kemungkinan peningkatan melalui AI," jelas Wang.
+"Namun tentunya keputusan terakhir masih ada di tangan pelatih. Ini sekadar alat untuk membantu mereka dalam membuat keputusan yang lebih komprehensif," tutupnya.

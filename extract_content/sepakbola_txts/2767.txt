@@ -1,0 +1,16 @@
+Title: Kenalkan Sicobot, Robot Pelatih Kiper Karya Mahasiswa PENS
+
+Content:
+Politeknik Elektronika Negeri Surabaya (PENS) tak henti memberikan inovasi lewat hasil karya mahasiswanya. Contohnya adalah robot satu ini yang bisa membantu seseorang berlatih menjadi seorang kiper sepakbola.
+Nama robotnya adalah Sicobot. Robot ini dibuat oleh enam mahasiswa PENS yakni Johan Roi Setiawan, Fatimah Nurul Izzah, Satria Naufal Jauhari, Ira Adi Nata, Alif Virdio Yudhistira W, dan Ujang Supriyadi.
+Dosen pembimbing tim mahasiswa, Mochamad Mobed Bachtiar menyebut inspirasi dari robot ini berasal dari struggle kiper yang seringkali kedodoran saat pertandingan. Sicobot dapat membantu seseorang mengembangkan kemampuannya sekaligus dijadikan teman bermain.
+"Jadi tidak hanya sekadar unsur fun-nya saja, tetapi juga untuk pengembangkan skills dari kiper," kata Mobed dikutip dari laman Ditjen Vokasi Kemdikbud, Jumat (24/11/2023).
+Proses pembuatan Sicobot dimulai dari riset terlebih dahulu selama satu tahun. Untuk pengerjaannya, dibutuhkan waktu selama 6-7 bulan.
+Mobed mengatakan karya mahasiswanya tersebut merupakan hasil dari pengajuan proposal dan lolos mendapatkan pendanaan di Pekan Ilmiah Mahasiswa Nasional (Pimnas). Meski dengan dana terbatas, tim tetap bisa membuat prototipe yang kompleks.
+"Kami menyadari betapa terbatasnya anggaran yang diberikan. Kami pun akhirnya meminjam beberapa peralatan yang nilainya besar seperti laptop dan kamera milik kampus. Pendanaan Pimnas digunakan untuk pengadaan komponen motor dan beberapa komponen lainnya," tutur Johan selaku ketua tim.
+Fungsi dari Sicobot ini antara lain untuk mencari titik kelemahan kiper dengan menggunakan pemetaan berbasis gawang sesuai dengan poin dan titik. Sicobot mempunyai enam titik pemetaan yakni sudut kiri, sudut kanan, dan tengah, baik atas maupun bawah.
+Jika dalam pertandingan kiper melakukan kelemahan pada titik-titik tertentu, Sicobot akan menangkap datanya. Lalu, data tersebut disimpan dalam bentuk statistik sebagai kelemahan kiper.
+Selain itu, robot ini akan mengarahkan bola dan mendribel bola berdasarkan sudut yang telah ditentukan. Akurasi dari robot ini mencapat100% untuk tembakan berjarak 6 meter.
+"Bagi kiper, biasanya akan diberikan latihan berulang, setelah robot mengumpulkan datanya. Maka sudut yang lemah itu akan dilatih dengan kecepatan dan varian bentuk tendangan berbeda oleh robot. Dari situ diharapkan kiper akan lebih tangguh lagi," kata Mobed.
+Mobed mengatakan enam mahasiswa bimbingannya tersebut akan bertolak ke Bandung untuk mengikuti Pimnas 2023 yang digelar 26 November-1 Desember 2023.
+"Mohon doanya semua agar tim kami dan semua tim PENS lolos dan memperoleh prestasi pada Pimnas besok," harap Johan.
